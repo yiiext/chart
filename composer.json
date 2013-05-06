@@ -1,0 +1,15 @@
+{
+    "name": "yiiext/chart",
+    "description": "This extension provides a set of charting widgets based on gRaphaël.",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Dmytro Zasyadko",
+            "email": "info@clevertech.biz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
