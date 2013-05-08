@@ -9,8 +9,8 @@
         }
     ],
     "minimum-stability": "dev",
-	"require": {
-	    "php": ">=5.1.0",
-	    "yiisoft/yii": "master"
-	}
+    "require": {
+        "php": ">=5.1.0",
+        "yiisoft/yii": "master"
+    }
 }
